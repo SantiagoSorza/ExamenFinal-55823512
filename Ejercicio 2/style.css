@@ -1,0 +1,22 @@
+
+h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+form{
+ padding: 10px;
+ border: 2px solid #a5bcf8;
+ max-width: fit-content;
+ border-radius: 12%;
+ background-color: rgb(188, 188, 230);
+}
+
+label{
+    display: block;
+    margin: 10px 0 1%;    
+}
+button{
+    background-color: rgb(109, 230, 79);
+}
+
